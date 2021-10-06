@@ -126,6 +126,14 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://facebook.com
             icon: fab fa-telegram
+      - name: "An"
+        role: "Diseñador"
+        image: assets/img/team/An.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-instagram
+          - url: https://facebook.com
+            icon: fab fa-instagram
 
   contact:
     title: "Contact Us"
