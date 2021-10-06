@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "WaifuPX"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        logo: assets/img/clients/envato.jpg #find more at https://fontawesome.com/icons
       - title: "WPX NSFW"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        image: assets/img/timeline/1.jpg
+        image: "https://raw.githubusercontent.com/WaifuPX-DG/wpx/master/assets/img/team/1.jpg"
       - title: "[BlackPlayer SE](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support [Descargar](https://en.wikipedia.org/wiki/Markdown)"
         icon: fab fa-markdown
