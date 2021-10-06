@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: ¡Bienvenido a nuestro sitio!
+    text: Es un placer conocerle
+    button: Explorar
     buttonlink: "#services"
 
   services:
@@ -170,9 +170,9 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
+    title: ¡Bienvenido a nuestro sitio!
     text: Es un placer conocerle
-    button: Ver más
+    button: Explorar
     buttonlink: "#servicios"
 
   services:
