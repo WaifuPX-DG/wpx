@@ -103,7 +103,7 @@ en: &DEFAULT_EN
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fab fa-telegram
           - url: https://facebook.com
             icon: fab fa-facebook-f
           - url: https://linkedin.com
