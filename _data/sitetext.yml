@@ -32,13 +32,13 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Nuestros Proyectos"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Cerrar Proyecto"
 
   timeline:
-    title: "Timeline"
+    title: "Línea del tiempo"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -122,17 +122,17 @@ en: &DEFAULT_EN
         role: "Colaborador Wallpapers"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://instagram.com/ian.doge
             icon: fab fa-instagram
-          - url: https://facebook.com
+          - url: https://t.me/IanDoge
             icon: fab fa-telegram
       - name: "An"
         role: "Diseñador"
         image: assets/img/team/An.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/AnnsDead?t=P2veXVKDmSFJHgR0rxiTAw&s=09
             icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://instagram.com/annsdead
             icon: fab fa-instagram
       - name: "MProduction!"
         role: "Colaborador Wallpaper"
