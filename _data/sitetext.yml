@@ -98,9 +98,9 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "David G."
+      - name: "ガルシア."
         role: "Fundador, Desarrollador"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/01.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Deysi K."
+      - name: "Daytron"
         role: "Co-fundadora, Diseñadora"
         image: assets/img/team/2.jpg
         social:
