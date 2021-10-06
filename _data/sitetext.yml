@@ -26,7 +26,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "WPX NSFW"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: assets/img/timeline/1.jpg
       - title: "[BlackPlayer SE](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support [Descargar](https://en.wikipedia.org/wiki/Markdown)"
         icon: fab fa-markdown
@@ -69,7 +69,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "Acerca de"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
