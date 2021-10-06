@@ -19,9 +19,9 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Equipo"
       section: team
-    - title: "Contact"
+    - title: "Contacto"
       section: contact
     - title: "Theme Source"
       url: https://github.com/raviriley/agency-jekyll-theme/
@@ -42,7 +42,7 @@ es: &DEFAULT_ES
       section: servicios
     - title: "Portafolio"
       section: portafolio
-    - title: "Sobre Nosotros"
+    - title: "Acerca de"
       section: nosotros
     - title: "Cronología"
       section: cronologia
