@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Servicios"
+    text: "Conoce nuestras Apps"
     section: services
     list:
       - title: "WaifuPX"
