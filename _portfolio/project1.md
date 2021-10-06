@@ -1,8 +1,8 @@
 ---
 title: WAIFUPX
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: • Moderna • Rapida • Sin Publicidad
 image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Perfección Senpai
 
 caption:
   title: WAIFUPX
@@ -12,7 +12,7 @@ caption:
 Una hermosa y moderna aplicación de Wallpapers estilo Anime, Con más de 99 colecciones y más de 450 Wallpapers en alta calidad, basada en material design sin ningún tipo de publicidad la convierte en la mejor de su tipo.
 
 {:.list-inline}
-- Peso: January 2017
-- Compatibilidad: Threads
+- Peso: 2.5 MB
+- Compatibilidad: Android 5.x+ (Api 21)
 - Version Actual: Miko (Debug)
 
