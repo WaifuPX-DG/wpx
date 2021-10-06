@@ -131,7 +131,7 @@ en: &DEFAULT_EN
         image: assets/img/team/An.jpg
         social:
           - url: https://twitter.com
-            icon: fab fa-instagram
+            icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-instagram
 
