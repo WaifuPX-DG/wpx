@@ -22,14 +22,14 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Diseño"
-        desc: "Obsesión con el Diseño. Nuestros proyectos deben ser útiles y funcionales pero sobre todo hermosos visualmente."
+        desc: "Atención a los pequeños detalles. Nuestros proyectos deben ser útiles y funcionales pero sobre todo visualmente hermosos."
         icon: fas fa-pencil-ruler #find more at https://fontawesome.com/icons
+      - title: "Privacidad"
+        desc: "Nuestras apps no requieren de permisos especiales para poder usarlas."
+        icon: fab fa-keycdn
       - title: "Comunicación"
         desc: "Nos importa la comunicación y confianza con nuestros usuarios, y nuestro grupo donde interactuamos es prueba de ello."
         icon: fas fa-users
-      - title: "Privacidad"
-        desc: "Nuestras apps no requieren de permisos especiales para usarlas."
-        icon: fab fa-keycdn
 
   portfolio:
     title: "Nuestros Proyectos"
@@ -145,17 +145,15 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contacto"
-    text: "Lorem ipsum or call 123456789"
+    text: "O encuéntranos en nuestras redes sociales"
     section: contact
     name: "Nombre*"
-    name-validation: "Please enter your name."
+    name-validation: "Ingresa tu nombre."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
     message: "Mensaje*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
+    message-validation: "Ingresa tu mensaje"
+    subject: "Contacto sitio WPX"
     submit: "Enviar Mensaje"
 
   footer:
