@@ -16,5 +16,5 @@ Una hermosa y moderna aplicación de arte estilo Anime, Para usuarios horny xD q
 - Compatibilidad: Android 5.x+ (Api 21)
 - Version Actual: Baaaaaaaaaaaka! Build: 200
 
-##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/wpx/raw/master/app/Signed.apk)
+##### [DESCARGAR WPX NSFW](https://github.com/WaifuPX-DG/wpx/raw/master/app/Signed.apk)
 
