@@ -163,14 +163,14 @@ en: &DEFAULT_EN
     social:
       - url: https://instagram.com/waifupx
         icon: "fab fa-instagram"
-      - url: https://t.me.com
+      - url: https://t.me/waifupx
         icon: "fab fa-telegram"
       - url: https://linkedin.com
         icon: "fab fa-discord"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://facebook.com/facebook
+        icon: "fab fa-facebook"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
