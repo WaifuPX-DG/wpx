@@ -47,12 +47,12 @@ en: &DEFAULT_EN
       - title: "Solo mediante Telegram"
         year: "Paso 1"
         desc: "Abre Telegram (instala si no eres usuario) y busca @Kanon_wpx_bot o bien para hacerlo ahora mismo toca [acá](https://t.me/Kanon_wpx_bot)."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/telegram.png
         alt:
       - title: "Presiona 'Iniciar'"
         year: "Paso 2"
         desc: "Después de presionar 'iniciar' en la conversación de Kanon solo sigue sus instrucciones."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/kanon.jpg
         alt:
       - title: "Esperar su aprobación"
         year: "Paso 3"
