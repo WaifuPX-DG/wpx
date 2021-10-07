@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: services
     - title: "Portfolio"
       section: portfolio
-    - title: "Timeline"
+    - title: "Pedidos"
       section: timeline
     - title: "Acerca de"
       section: about
@@ -23,7 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contacto"
       section: contact
-    - title: "Theme Source"
+    - title: "En Appteka"
       url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
@@ -33,26 +33,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-
-# Spanish
-# -------
-es: &DEFAULT_ES
-  nav:
-    - title: "Servicios"
-      section: servicios
-    - title: "Portafolio"
-      section: portafolio
-    - title: "Timeline"
-      section: timeline
-    - title: "Acerca de"
-      section: nosotros
-    - title: "Equipo"
-      section: equipo
-    - title: "Contáctenos"
-      section: contacto
-    - title: "Fuente de la plantilla"
-      url: https://github.com/raviriley/agency-jekyll-theme/
-es-ES:
-  <<: *DEFAULT_ES
-es-CO:
-  <<: *DEFAULT_ES
