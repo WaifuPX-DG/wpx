@@ -14,7 +14,7 @@ Una hermosa y moderna aplicación de arte estilo Anime, Para usuarios horny xD q
 {:.list-inline}
 - Tamaño: 3.4 MB
 - Compatibilidad: Android 5.x+ (Api 21)
-- Version Actual: Baaaaaaaaaaaka! | Build: 200
+- Version Actual: Baaaaaaaaaaaka! Build: 200
 
 ##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX/releases/download/3.3.1/WaifuPX_Kanon_HotFix.apk)
 
