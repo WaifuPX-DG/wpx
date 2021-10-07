@@ -17,8 +17,6 @@ en: &DEFAULT_EN
       section: portfolio
     - title: "Acerca de"
       section: about
-    - title: "Timeline"
-      section: timeline
     - title: "Equipo"
       section: team
     - title: "Contacto"
@@ -44,8 +42,6 @@ es: &DEFAULT_ES
       section: portafolio
     - title: "Acerca de"
       section: nosotros
-    - title: "Cronología"
-      section: cronologia
     - title: "Equipo"
       section: equipo
     - title: "Contáctenos"
