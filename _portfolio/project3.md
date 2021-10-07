@@ -1,5 +1,5 @@
 ---
-title: BlackPlayer SE
+title: BPEXSE
 subtitle: • Rapido • Personalizable • Material Design 2
 image: assets/img/portfolio/BlackPlayerSE.png
 alt: 
