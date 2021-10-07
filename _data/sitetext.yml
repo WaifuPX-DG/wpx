@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Conoce nuestras Apps"
     section: services
     list:
-      - title: "WaifuPX"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Diseño"
+        desc: "Obsesión con el Diseño. Nuestros proyectos deben ser útiles y funcionales pero sobre todo hermosos visualmente."
         icon: fas fa-pencil-ruler #find more at https://fontawesome.com/icons
-      - title: "WPX NSFW"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Comunicación"
+        desc: "Nos importa la comunicación y confianza con nuestros usuarios, y nuestro grupo donde interactuamos es prueba de ello."
         image: "https://raw.githubusercontent.com/WaifuPX-DG/wpx/master/assets/img/team/1.jpg"
-      - title: "[BlackPlayer SE](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Privacidad"
         desc: "Your description here, full **Markdown** support [Descargar](https://en.wikipedia.org/wiki/Markdown)"
         icon: fab fa-markdown
 
