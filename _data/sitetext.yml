@@ -79,11 +79,11 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "github"
+        url: https://github.com
         logo: assets/img/clients/github.png
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+      - title: "adobe"
+        url: https://adobe.com
         logo: assets/img/clients/photoshop.png
 
   team:
@@ -161,7 +161,7 @@ en: &DEFAULT_EN
         icon: "fab fa-telegram"
       - url: https://linkedin.com
         icon: "fab fa-discord"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/WaifuPX-DG/WaifuPX
         icon: "fab fa-github"
       - url: https://facebook.com/waifupx
         icon: "fab fa-facebook"
