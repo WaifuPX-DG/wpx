@@ -61,7 +61,7 @@ en: &DEFAULT_EN
         alt: image alt text
       - title: "Pedido Listo"
         year: "Finalmente"
-        desc: "Tu wallpapers del personaje que solicitaste estará visible en la app WAIFUPX."
+        desc: "Tu wallpaper del personaje que solicitaste estará visible en la app WAIFUPX."
         image: assets/img/timeline/kyun.jpg
         alt:
         # you can enforce the alignment
