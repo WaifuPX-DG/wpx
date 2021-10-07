@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contacto"
       section: contact
     - title: "En Appteka"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+      url: https://appteka.store/app/a6er42430
 en-US:
   <<: *DEFAULT_EN
 en-CA:
