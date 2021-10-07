@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Nos importa la comunicación y confianza con nuestros usuarios, y nuestro grupo donde interactuamos es prueba de ello."
         icon: fas fa-users
       - title: "Privacidad"
-        desc: "Your description here, full **Markdown** support [Descargar](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Nuestras apps no requieren de permisos especiales para usarlas."
         icon: fab fa-keycdn
 
   portfolio:
