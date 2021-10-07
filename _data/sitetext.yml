@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-pencil-ruler #find more at https://fontawesome.com/icons
       - title: "Comunicación"
         desc: "Nos importa la comunicación y confianza con nuestros usuarios, y nuestro grupo donde interactuamos es prueba de ello."
-        image: "https://raw.githubusercontent.com/WaifuPX-DG/wpx/master/assets/img/team/1.jpg"
+        icon: fas fa-users
       - title: "Privacidad"
         desc: "Your description here, full **Markdown** support [Descargar](https://en.wikipedia.org/wiki/Markdown)"
-        icon: fas fa-shield-check
+        icon: fab fa-keycdn
 
   portfolio:
     title: "Nuestros Proyectos"
