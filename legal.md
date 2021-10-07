@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Privacy Policy
+title: POLÍTICA DE PRIVACIDAD
 ---
 <div class="col-lg-12 text-center">
 	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
 </div>
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+Esta Política de privacidad describe cómo se recopila, utiliza y comparte su información personal cuando visita WAIFUPX (el "Sitio").
 
-**PERSONAL INFORMATION WE COLLECT**
+**INFORMACIÓN PERSONAL QUE RECOPILAMOS**
 
 {% if site.analytics.google %}
 
@@ -24,14 +24,14 @@ You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaopt
 
 {% else %}
 
-We do not collect any data about you or use any cookies.
+No recopilamos ningún dato sobre usted ni utilizamos cookies.
 
 {% endif %}
 
-**CHANGES**
+**CAMBIOS**
 
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
+Es posible que actualicemos esta política de privacidad de vez en cuando por motivos personales, operativos, legales o reglamentarios.
 
-**CONTACT US**
+**CONTÁCTENOS**
 
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Para obtener más información sobre nuestras prácticas de privacidad o si tiene preguntas, comuníquese con nosotros por correo electrónico a <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
