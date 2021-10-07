@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Servicios"
+    - title: "Importancia"
       section: services
     - title: "Descargar App"
       section: portfolio
