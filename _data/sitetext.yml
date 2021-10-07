@@ -95,7 +95,7 @@ en: &DEFAULT_EN
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Moe Moe"
-    subtext: ##### Gracias a los que apoyaron directa o indirectamente algunos de nuestros proyectos y ##### Gracias a ti por usar nuestras apps.
+    subtext: Gracias a los que apoyaron directa o indirectamente algunos de nuestros proyectos y **Gracias a ti** por usar nuestras apps.
     section: team
     people:
       - name: "ガルシア."
