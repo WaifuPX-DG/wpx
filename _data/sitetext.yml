@@ -102,10 +102,10 @@ en: &DEFAULT_EN
         role: "Fundador, Desarrollador"
         image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
+          - url: https://t.me/Dg_WPX
             icon: fab fa-telegram
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://instagram.com/Dg_WPX
+            icon: fab fa-instagram
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Daytron"
@@ -114,8 +114,8 @@ en: &DEFAULT_EN
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          - url: https://nstagram.com
+            icon: fab fa-instagram
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Ian Doge"
