@@ -100,18 +100,14 @@ en: &DEFAULT_EN
             icon: fab fa-telegram
           - url: https://instagram.com/Dg_WPX
             icon: fab fa-instagram
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
       - name: "Daytron"
         role: "Co-fundadora, Diseñadora"
         image: assets/img/team/2.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://nstagram.com
+          - url: https://instagram.com/daysi_gg
             icon: fab fa-instagram
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://t.me/daytron01
+            icon: fab fa-telegram
       - name: "Ian Doge"
         role: "Colaborador Wallpapers"
         image: assets/img/team/Ian.jpg
