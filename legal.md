@@ -3,7 +3,7 @@ layout: page
 title: POLÍTICA DE PRIVACIDAD
 ---
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
+	<h2 class="section-heading text-uppercase">POLÍTICA DE PRIVACIDAD</h2>
 </div>
 
 Esta Política de privacidad describe cómo se recopila, utiliza y comparte su información personal cuando visita WAIFUPX (el "Sitio").
