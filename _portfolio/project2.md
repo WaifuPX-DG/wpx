@@ -16,6 +16,6 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Client: Explore
 - Category: Graphic Design
 
-##### [DESCARGAR WPX NSFW](https://github.com/WaifuPX-DG/WaifuPX/releases/download/3.3.1/WaifuPX_Kanon_HotFix.apk)
+##### [DESCARGAR WPX NSFW](https://github.com/WaifuPX-DG/wpx/raw/master/app/Signed.apk)
 
 
