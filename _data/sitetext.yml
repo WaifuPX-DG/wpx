@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "WaifuPX"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        logo: assets/img/clients/envato.jpg #find more at https://fontawesome.com/icons
+        icon: fad fa-pencil-ruler #find more at https://fontawesome.com/icons
       - title: "WPX NSFW"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         image: "https://raw.githubusercontent.com/WaifuPX-DG/wpx/master/assets/img/team/1.jpg"
