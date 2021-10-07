@@ -7,7 +7,7 @@ alt: Perfección Senpai
 caption:
   title: WAIFUPX NSFW
   subtitle: Contenido +18
-  thumbnail: assets/img/portfolio/nsfw.png
+  thumbnail: assets/img/portfolio/wpxnsfw.png
 ---
 Una hermosa y moderna aplicación de arte estilo Anime, Para usuarios horny xD que buscan más, en alta calidad, basada en material design sin ningún tipo de publicidad la convierte en la mejor de su tipo.
 
