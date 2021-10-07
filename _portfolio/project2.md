@@ -5,9 +5,9 @@ image: assets/img/portfolio/02-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: WPX NSFW
+  subtitle: Contenido +18
+  thumbnail: assets/img/portfolio/wpxnsfw.png
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
@@ -15,4 +15,7 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 - Date: January 2017
 - Client: Explore
 - Category: Graphic Design
+
+##### [DESCARGAR WPX NSFW](https://github.com/WaifuPX-DG/WaifuPX/releases/download/3.3.1/WaifuPX_Kanon_HotFix.apk)
+
 
