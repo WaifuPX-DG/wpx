@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Ian Doge"
         role: "Colaborador Wallpapers"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/Ian.jpg
         social:
           - url: https://instagram.com/ian.doge
             icon: fab fa-instagram
@@ -144,22 +144,22 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
 
   contact:
-    title: "Contact Us"
+    title: "Contacto"
     text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Name*"
+    name: "Nombre*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
     phone: "Phone Number"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "Mensaje*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "Enviar Mensaje"
 
   footer:
-    legal: "Privacy Policy"
+    legal: "Política de Privacidad"
     social:
       - url: https://instagram.com/waifupx
         icon: "fab fa-instagram"
