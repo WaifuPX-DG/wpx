@@ -57,12 +57,12 @@ en: &DEFAULT_EN
       - title: "Esperar su aprobación"
         year: "Paso 3"
         desc: "Recibirás un mensaje de Kanon notificando si tu pedido fue aprobado o no, si fue aprobado ahora solo tienes que esperar a que esté listo"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/check.png
         alt: image alt text
       - title: "Pedido Listo"
         year: "Finalmente"
         desc: "Tu wallpapers del personaje que solicitaste estará visible en la app WAIFUPX."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/kyun.jpg
         alt:
         # you can enforce the alignment
         align: right
