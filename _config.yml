@@ -23,7 +23,7 @@ description: "Agency Bootstrap theme converted to a Jekyll theme, plus new featu
 author     : Your Name
 logo:     #optional, defaults to site title
 path: assets\img\clients\creative-market.jpg
-height: 60 #height in px, defaults to 52px
+height: 60px #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
