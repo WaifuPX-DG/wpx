@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   nav:
     - title: "Servicios"
       section: services
-    - title: "Apps"
+    - title: "Descargar App"
       section: portfolio
     - title: "Pedidos"
       section: timeline
