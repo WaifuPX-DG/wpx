@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "Acerca de"
     text: "Nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "En progreso..."
     section: about
 
   clients:
