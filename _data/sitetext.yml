@@ -56,17 +56,17 @@ en: &DEFAULT_EN
         alt:
       - title: "Esperar su aprobación"
         year: "Paso 3"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Recibirás un mensaje de Kanon notificando si tu pedido fue aprobado o no, si fue aprobado ahora solo tienes que esperar a que esté listo"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Pedido Listo"
+        year: "Finalmente"
+        desc: "Tu wallpapers del personaje que solicitaste estará visible en la app WAIFUPX."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Te <br> resulta <br> útil?"
 
   about:
     title: "Acerca de"
