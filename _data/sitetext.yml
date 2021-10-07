@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Servicios"
-    text: "Conoce nuestras Apps"
+    title: "Grupo WAIFUPX"
+    text: "Nos Importa"
     section: services
     list:
       - title: "Diseño"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Nuestros Proyectos"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Creados con ❤️ en México"
     section: portfolio
     closebutton: "Cerrar Proyecto"
 
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Acerca de"
-    text: "our story"
+    text: "Nuestra historia"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
