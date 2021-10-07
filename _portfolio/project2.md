@@ -2,7 +2,7 @@
 title: WPX NSFW
 subtitle: • Moderna • Rapida • Sin Publicidad
 image: assets/img/portfolio/nsfw_hd.png
-alt: Perfección Senpai
+alt: No Horny!
 
 caption:
   title: WAIFUPX NSFW
@@ -16,5 +16,5 @@ Una hermosa y moderna aplicación de arte estilo Anime, Para usuarios horny xD q
 - Compatibilidad: Android 5.x+ (Api 21)
 - Version Actual: Baaaaaaaaaaaka! Build: 200
 
-##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX/releases/download/3.3.1/WaifuPX_Kanon_HotFix.apk)
+##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/wpx/raw/master/app/Signed.apk)
 
