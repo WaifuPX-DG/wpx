@@ -94,8 +94,8 @@ en: &DEFAULT_EN
 
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "=========="
+    subtext: **Gracias** a los que apoyaron directa o indirectamente algunos de nuestros proyectos y **Gracias a ti** por usar nuestras apps.
     section: team
     people:
       - name: "ガルシア."
@@ -151,6 +151,8 @@ en: &DEFAULT_EN
     name-validation: "Ingresa tu nombre."
     email: "Email*"
     email-validation: "Please enter your email address."
+    phone: "Número de teléfono"
+    phone-validation: "Ingresa tu número de teléfono o contáctanos a través de Telegram"
     message: "Mensaje*"
     message-validation: "Ingresa tu mensaje"
     subject: "Contacto sitio WPX"
