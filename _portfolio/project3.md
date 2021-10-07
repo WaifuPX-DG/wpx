@@ -1,7 +1,7 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: BlackPlayer SE
+subtitle: • Rapido • Personalizable • Material Design 2
+image: assets/img/portfolio/BlackPlayerSE.png
 alt: 
 
 caption:
@@ -9,12 +9,12 @@ caption:
   subtitle: Mod de BlackPlayer EX
   thumbnail: assets/img/portfolio/bprse.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Una modificación no oficial del reproductor BlackPlayer Ex, Corrigiendo y Actualizando su diseño para adaptarse a un estilo más moderno, eliminando archivos innecesarios y optimizando sin perder funcionalidades.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+- Tamaño: N/A
+- Compatibilidad: N/A
+- Version más reciente: En Desarrollo
 
-##### [DESCARGAR BlackPlayer SE](https://github.com/WaifuPX-DG/WaifuPX/releases/download/3.3.1/WaifuPX_Kanon_HotFix.apk)
+##### [Disponible Pronto](https://github.com)
 
