@@ -169,7 +169,7 @@ en: &DEFAULT_EN
         icon: "fab fa-discord"
       - url: https://github.com/raviriley/agency-jekyll-theme
         icon: "fab fa-github"
-      - url: https://facebook.com/facebook
+      - url: https://facebook.com/waifupx
         icon: "fab fa-facebook"
 en-US:
   <<: *DEFAULT_EN
