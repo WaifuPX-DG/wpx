@@ -1,7 +1,7 @@
 ---
 title: WAIFUPX
 subtitle: • Moderna • Rapida • Sin Publicidad
-image: assets/img/portfolio/01-full.jpg
+image: assets/img/portfolio/appwpx.png
 alt: Perfección Senpai
 
 caption:
