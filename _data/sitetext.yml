@@ -159,7 +159,7 @@ en: &DEFAULT_EN
         icon: "fab fa-instagram"
       - url: https://t.me/waifupx
         icon: "fab fa-telegram"
-      - url: https://linkedin.com
+      - url: https://discord.gg/Y6ZdTaQxWT
         icon: "fab fa-discord"
       - url: https://github.com/WaifuPX-DG/WaifuPX
         icon: "fab fa-github"
