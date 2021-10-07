@@ -44,18 +44,18 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "1 Paso"
-        desc: "Abre Telegram y busca @Kanon_wpx_bot o bien para hacerlo ahora mismo toca [Acá](https://t.me/Kanon_wpx_bot)."
+      - title: "Solo mediante Telegram"
+        year: "Paso 1"
+        desc: "Abre Telegram (instala si no eres usuario) y busca @Kanon_wpx_bot o bien para hacerlo ahora mismo toca [acá](https://t.me/Kanon_wpx_bot)."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Presiona 'Iniciar'"
+        year: "Paso 2"
+        desc: "Después de presionar 'iniciar' en la conversación de Kanon solo sigue sus instrucciones."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Esperar su aprobación"
+        year: "Paso 3"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
