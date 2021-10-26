@@ -16,6 +16,6 @@ Una hermosa y moderna aplicación de Wallpapers estilo Anime, Con más de 99 col
 - Compatibilidad: Android 5.x+ (Api 21)
 - Version Actual: Miko (Debug)
 
-##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX/releases/download/5.0/WAIFUPX_Miko.apk)
+##### [DESCARGAR WAIFUPX](https://github.com/WaifuPX-DG/WaifuPX/releases/download/5.0/WAIFUPX_Miko_5.0.apk)
 
 
