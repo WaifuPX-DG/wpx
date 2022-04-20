@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Solo mediante Telegram"
         year: "Paso 1"
-        desc: "Abre Telegram (instala si no eres usuario) y busca @Kanon_wpx_bot o bien para hacerlo ahora mismo toca [acá](https://t.me/Kanon_wpx_bot)."
+        desc: "Abre Telegram (instala si no eres usuario) para hacerlo ahora mismo toca [acá](https://t.me/request_wpx_bot)."
         image: assets/img/timeline/telegram.png
         alt:
       - title: "Presiona 'Iniciar'"
