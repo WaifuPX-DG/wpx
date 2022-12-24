@@ -93,7 +93,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "ガルシア."
-        role: "Fundador, Desarrollador"
+        role: "Fundador, Desarrollador Principal"
         image: assets/img/team/1.jpg
         social:
           - url: https://t.me/Dg_WPX
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com/Dg_WPX
             icon: fab fa-instagram
       - name: "Daytron"
-        role: "Co-fundadora, Diseñadora"
+        role: "Co-fundadora de WaifuPX, Diseñadora"
         image: assets/img/team/2.jpg
         social:
           - url: https://instagram.com/daysi_gg
