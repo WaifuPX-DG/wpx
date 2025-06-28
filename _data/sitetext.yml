@@ -94,7 +94,7 @@ en: &DEFAULT_EN
     people:
       - name: "ガルシア."
         role: "Fundador, Desarrollador Principal"
-        image: assets/img/team/1.jpg
+        image: https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/Resources/Avatars/dg.png
         social:
           - url: https://t.me/Dg_WPX
             icon: fab fa-telegram
