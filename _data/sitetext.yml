@@ -92,7 +92,7 @@ en: &DEFAULT_EN
     subtext: Gracias a los que apoyaron directa o indirectamente algunos de nuestros proyectos y **Gracias a ti** por usar nuestras apps.
     section: team
     people:
-      - name: "ガルシア."
+      - name: "Galahad"
         role: "Fundador, Desarrollador Principal"
         image: https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/Resources/Avatars/dg.png
         social:
@@ -101,7 +101,7 @@ en: &DEFAULT_EN
           - url: https://instagram.com/Dg_WPX
             icon: fab fa-instagram
       - name: "Daytron"
-        role: "Co-fundadora de WaifuPX, Diseñadora"
+        role: "Co-fundadora de WPX, Diseñadora"
         image: assets/img/team/2.jpg
         social:
           - url: https://instagram.com/daysi_gg
