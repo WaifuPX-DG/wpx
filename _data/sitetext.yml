@@ -96,7 +96,7 @@ en: &DEFAULT_EN
         role: "Fundador, Desarrollador Principal"
         image: https://raw.githubusercontent.com/WaifuPX-DG/WaifuPX/refs/heads/main/App/Resources/Avatars/dg.png
         social:
-          - url: https://t.me/Dg_WPX
+          - url: https://t.me/galahad_wpx
             icon: fab fa-telegram
           - url: https://instagram.com/Dg_WPX
             icon: fab fa-instagram
