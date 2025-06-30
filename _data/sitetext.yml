@@ -120,9 +120,9 @@ en: &DEFAULT_EN
         role: "Diseñador"
         image: assets/img/team/An.jpg
         social:
-          - url: https://twitter.com/AnnsDead?t=P2veXVKDmSFJHgR0rxiTAw&s=09
+          - url: https://twitter.com/anarchist_one
             icon: fab fa-twitter
-          - url: https://instagram.com/annsdead
+          - url: https://www.instagram.com/anarquistak
             icon: fab fa-instagram
       - name: "MProduction!"
         role: "Colaborador Wallpaper"
